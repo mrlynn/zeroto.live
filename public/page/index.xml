@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Zero to Live</title>
+    <link>https://zerotolive-njchv.mongodbstitch.com/page/</link>
+    <description>Recent content in Pages on Zero to Live</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>mike@zerotolive.com (Michael Lynn)</managingEditor>
+    <webMaster>mike@zerotolive.com (Michael Lynn)</webMaster>
+    
+	<atom:link href="https://zerotolive-njchv.mongodbstitch.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://zerotolive-njchv.mongodbstitch.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mike@zerotolive.com (Michael Lynn)</author>
+      <guid>https://zerotolive-njchv.mongodbstitch.com/page/about/</guid>
+      <description>My name is Michael Lynn and I work on Technology challenges with Startups to help them launch and build amazing things.
+What else do you need? - Are you a founder, CTO, or developer? - Do you want to chat? Appear on our Podcast? Write a guest blog article? - Reach out via our Contact Page.</description>
+    </item>
+    
+  </channel>
+</rss>
